@@ -1,12 +1,14 @@
-# Mathbook
-
 [![Build Status](https://travis-ci.org/JetJet13/mathbook.svg?branch=develop)](https://travis-ci.org/JetJet13/mathbook)
 [![Greenkeeper badge](https://badges.greenkeeper.io/JetJet13/mathbook.svg)](https://greenkeeper.io/)
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/mathbook-chat/Lobby)
 
+![mathbook-logo](./src/front-end/public/images/mathbook_indigo_white_v5.png)
+
 Mathbook is a website that provides peer-reviewed tutorials on topics covering most subjects in mathematics.
 
 Mathbook is written in JavaScript and built using NodeJS, ExpressJS, Riot and Pug (formerly known as Jade)
+
+---
 
 ## Requirements
 
